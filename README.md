@@ -68,6 +68,6 @@
   <li>George Youhana - g.ghaly0451@student.aast.edu</li>
   <li>Mostafa Magdy - Mustafa.10770@stemredsea.moe.edu.eg </li>
   <li>Abdallah Alkhouly- a.alkholy53@student.aast.edu</li>
-  <li>Ahmed Hafez</li>
+  <li>Ahmed Hafez- ahmedhafez20010701@gmail.com</li>
   <li>Mahmoud Yasser- mahmoudyaser3110@gmail.com </li>
 </ul>
